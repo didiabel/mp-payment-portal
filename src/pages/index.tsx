@@ -37,7 +37,6 @@ const App = () => {
       <LazyShow>
         <>
           <Features />
-          <Canvas />
         </>
       </LazyShow>
       {/* <LazyShow>
@@ -71,6 +70,7 @@ const App = () => {
         <h1
           style={{
             color: 'white',
+            textShadow: '2px 2px 4px rgba(0, 0, 1, 1)',
           }}
         >
           {whatsapp.title}

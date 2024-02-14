@@ -9,12 +9,8 @@
       "href": "product"
     },
     {
-      "name": "Features",
+      "name": "Carreras",
       "href": "features"
-    },
-    {
-      "name": "Contactanos",
-      "href": "about"
     }
   ],
   "callToAction": {
@@ -22,17 +18,17 @@
     "href": "https://wa.me/+5491130963017?text=Hola%21+me+gustar%C3%ADa+saber+mas+sobre+el+programa+Menora-UP%E2%80%A6%F0%9F%98%81"
   },
   "mainHero": {
-    "title": "Use me as your",
-    "subtitle": "landing page.",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "title": "Programa",
+    "subtitle": "Menora-UP",
+    "description": "Los alumnos del grupo Menora en la UP pueden tomar cursos electivos sobre judaísmo y ética judía, formando parte esencial del plan de estudios para cultivar profesionales éticos basados en enseñanzas milenarias.",
     "img": "/assets/images/happyTeam.jpeg",
     "primaryAction": {
-      "text": "Get started",
-      "href": "#"
+      "text": "Envianos un mensaje",
+      "href": "https://wa.me/+5491130963017?text=Hola%21+me+gustar%C3%ADa+saber+mas+sobre+el+programa+Menora-UP%E2%80%A6%F0%9F%98%81"
     },
     "secondaryAction": {
-      "text": "Email us",
-      "href": "mailto:issaafakattan@gmail.com?subject=I like react landing page!"
+      "text": "Envianos un mail",
+      "href": "mailto:up@menora.org.ar?subject=Quiero saber mas del programa Menora-UP"
     }
   },
   "whatsapp": {
@@ -41,44 +37,48 @@
     "img": "/assets/images/whatsapp.png"
   },
   "product": {
-    "title": "React landing page 2021",
+    "title": "Información",
     "items": [
       {
-        "title": "A plug n play template",
-        "description": "Just edit the config.json file with details about your company and voila your beautiful state of the art landing page is ready to go live! Remember to also update your assets, add any images you want to show to /assets/images and link them in the config.json",
+        "title": "Calendario judío",
+        "description": "En Menora UP coordinamos nuestros esfuerzos para lograr adaptar el calendario académico respetando las fechas festivas en las cuales no es posible asistir a cursar materias ni rendir exámenes. Esto implica al Shabat y a todos los días no laborables: Yom Tov de Pesaj, Shavuot, Rosh Hashana, Kipur y Sucot.",
         "img": "/assets/images/product1.jpg"
       },
       {
-        "title": "Make it your own!",
-        "description": "Play around with the theme.ts file and configure the color palette to match the branding of your company! If you're feeling wild, maybe change some tailwind css as well!",
+        "title": "Aulas exclusivas",
+        "description": "Los estudiantes que se inscriban en la UP a través de Menora tendrán aulas exclusivas para su uso. Esto facilitará la formación de grupos y fortalecerá su sentido de pertenencia, creando un ambiente propicio para el respeto de las normas relacionadas con la interacción entre estudiantes, incluyendo aspectos como el recato entre chicos y chicas, entre otros detalles.",
         "img": "/assets/images/product2.jpg"
       }
     ]
   },
   "features": {
-    "title": "Latest & greatest ",
-    "subtitle": "All the best technologies out there!",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "title": "Carreras",
+    "subtitle": "Todas las carreras que te podes imaginar!",
+    "description": "En el programa de Menora UP, se ofrece una amplia variedad de carreras para que puedas elegir aquella que mejor se adapte a tus intereses y metas profesionales.",
     "items": [
       {
-        "name": "React.js",
-        "description": "React is a free and open-source front-end JavaScript library for building user interfaces or UI components.",
-        "icon": "/assets/images/react.png"
+        "name": "Facultad de Ingenieria",
+        "description": "",
+        "link": "https://www.palermo.edu/ingenieria/",
+        "icon": "/assets/images/ingenieria.svg"
       },
       {
-        "name": "Tailwind",
-        "description": "Tailwind CSS is a highly customizable, low-level CSS framework for quickly creating beautiful designs without any annoying opinionated stylesheet nonsense.",
-        "icon": "/assets/images/tailwindcss.svg"
+        "name": "Facultad de Ciencias Sociales",
+        "description": "",
+        "link": "https://www.palermo.edu/cienciassociales/",
+        "icon": "/assets/images/ciencias-sociales.svg"
       },
       {
-        "name": "Next.js",
-        "description": "Next.js is a framework for server-rendered React applications using Next.js.",
-        "icon": "/assets/images/nextjs.svg"
+        "name": "Facultad de Negocios",
+        "description": "",
+        "link": "https://www.palermo.edu/negocios/",
+        "icon": "/assets/images/negocios.svg"
       },
       {
-        "name": "Typescript",
-        "description": "TypeScript is a programming language developed and maintained by Microsoft.",
-        "icon": "/assets/images/ts.png"
+        "name": "Facultad de Diseño y comunicacion",
+        "description": "",
+        "link": "https://www.palermo.edu/dyc/",
+        "icon": "/assets/images/diseñoycomunicacion.svg"
       }
     ]
   },
@@ -124,30 +124,13 @@
   "about": {
     "sections": [
       {
-        "name": "Something",
-        "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
-      },
-      {
-        "name": "Something",
-        "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
-      },
-      {
-        "name": "Something",
-        "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
-      },
-      {
-        "name": "Something",
-        "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+        "name": "Contactanos",
+        "href": "https://wa.me/+5491130963017?text=Hola%21+me+gustar%C3%ADa+saber+mas+sobre+el+programa+Menora-UP%E2%80%A6%F0%9F%98%81"
       }
     ],
     "socialMedia": {
-      "github": "https://github.com/issaafalkattan",
-      "twitter": "https://twitter.com/issaafkattan",
-      "linkedin": "https://www.linkedin.com/in/issaaf-kattan/"
+      "instagram": "https://www.instagram.com/menora_arg/",
+      "linkedin": "https://www.linkedin.com/company/menora-argentina"
     }
   }
 }
