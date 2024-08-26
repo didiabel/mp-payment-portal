@@ -17,11 +17,11 @@ module.exports = {
     },
     extend: {
       colors: {
-        primary: '#F99626',
-        secondary: '#000000',
-        tertiary: '#D4A657',
+        primary: '#097ee7',
+        secondary: '#2b7cc8',
+        tertiary: '#c6eefc',
         border: '#1a2e35',
-        background: '#ffffff',
+        background: '#feffff',
       },
       animation: {
         vote: 'vote 1s ease-in-out',

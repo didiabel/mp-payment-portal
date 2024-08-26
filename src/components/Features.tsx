@@ -27,28 +27,48 @@ const Features = () => {
 
           <div className="mt-20">
             <dl className="space-y-10 md:space-y-0 md:grid md:grid-cols-2 md:gap-x-8 md:gap-y-10">
-              {featuresList.map((feature) => (
-                <a href={feature.link} key={feature.name} className="relative">
-                  <div
-                    style={{
-                      display: 'flex',
-                      marginRight: '20px',
-                      marginTop: '30px',
-                    }}
+              {featuresList.map((feature) =>
+                feature.isButton ? (
+                  <a
+                    href={feature.link}
+                    key={feature.name}
+                    className="relative"
                   >
-                    <img
-                      className={`h-12 w-12 rounded-md bg-background text-tertiary `}
-                      src={feature.icon}
-                      alt={feature.name}
-                    />
+                    <div
+                      style={{
+                        display: 'flex',
+                        marginRight: '20px',
+                        marginTop: '30px',
+                      }}
+                    >
+                      <img
+                        className={`h-12 w-12 rounded-md bg-background text-tertiary `}
+                        src={feature.icon}
+                        alt={feature.name}
+                      />
+                      <dt>
+                        <p className="ml-2 text-lg leading-6 font-medium text-gray-900">
+                          {feature.name}
+                        </p>
+                      </dt>
+                    </div>
+                  </a>
+                ) : (
+                  <div>
                     <dt>
-                      <p className="ml-2 text-lg leading-6 font-medium text-gray-900">
+                      <p className="ml-2 text-3xl leading-6 font-bold text-gray-900">
                         {feature.name}
                       </p>
                     </dt>
+                    <p
+                      className={`text-gray-600`}
+                      dangerouslySetInnerHTML={{
+                        __html: feature.description.replace(/\n/g, '<br/>'),
+                      }}
+                    />
                   </div>
-                </a>
-              ))}
+                )
+              )}
             </dl>
           </div>
         </div>

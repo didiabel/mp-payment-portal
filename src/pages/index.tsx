@@ -11,6 +11,7 @@ import MainHeroImage from '../components/MainHeroImage';
 import Product from '../components/Product';
 import config from '../config/index.json';
 
+// npm run dev
 const App = () => {
   const { whatsapp } = config;
 

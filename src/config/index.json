@@ -1,6 +1,6 @@
 {
   "company": {
-    "name": "React landing page 2021",
+    "name": "Portfolio - Jony Bendjouya",
     "logo": "/assets/images/logo.png"
   },
   "navigation": [
@@ -9,86 +9,85 @@
       "href": "product"
     },
     {
-      "name": "Carreras",
+      "name": "Services",
       "href": "features"
     }
   ],
   "callToAction": {
-    "text": "Contactanos",
-    "href": "https://wa.me/+5491130963017?text=Hola%21+me+gustar%C3%ADa+saber+mas+sobre+el+programa+Menora-UP"
+    "text": "Contact me",
+    "href": "https://wa.me/5491154771235?text=Hello%2C%20I%27d%20like%20more%20info%20on%20your%20services"
   },
   "mainHero": {
-    "title": "Programa Universitario",
-    "subtitle": "Menora-UP",
-    "description": "Si querés estudiar en la Facultad de Negocios, en la Facultad de Ingeniería, en la Facultad de Diseño y Comunicación o en la Facultad de Ciencias Sociales  \n \n En Menora UP te ofrecemos un ambiente de excelencia académica cuidadosamente adaptado a tus necesidades.",
+    "title": "JMB SOLUTIONS BH",
+    "subtitle": "Supply chain services",
+    "description": "As a freelancer, I started my own business offering supply chain and consulting services to businesses selling on Amazon FBA and other ecommerce platforms in the United States, the EU, the United Kingdom, Canada, Mexico, and Australia. I have over 3 years of experience working with top Amazon sellers.",
     "img": "/assets/images/happyTeam.jpeg",
     "primaryAction": {
-      "text": "Envianos un mensaje",
-      "href": "https://wa.me/+5491130963017?text=Hola%21+me+gustar%C3%ADa+saber+mas+sobre+el+programa+Menora-UP"
+      "text": "Send me a message",
+      "href": "https://wa.me/5491154771235?text=Hello%2C%20I%27d%20like%20more%20info%20on%20your%20services"
     },
     "secondaryAction": {
-      "text": "Envianos un mail",
-      "href": "mailto:up@menora.org.ar?subject=Quiero saber mas del programa Menora-UP"
+      "text": "Send me an email",
+      "href": "mailto:jonybendjouya@gmail.com?subject=Hello, I'd like more info on your services"
     }
   },
   "whatsapp": {
-    "title": "Envianos un mensaje",
-    "link": "https://wa.me/+5491130963017?text=Hola%21+me+gustar%C3%ADa+saber+mas+sobre+el+programa+Menora-UP",
+    "title": "Send me a message",
+    "link": "https://wa.me/5491154771235?text=Hello%2C%20I%27d%20like%20more%20info%20on%20your%20services",
     "img": "/assets/images/whatsapp.png"
   },
   "product": {
-    "title": "Información",
+    "title": "Information",
     "items": [
       {
-        "title": "Calendario judío",
-        "description": "En Menora UP coordinamos nuestros esfuerzos para lograr adaptar el calendario académico respetando las fechas festivas en las cuales no es posible asistir a cursar materias ni rendir exámenes. \n \n Esto implica al Shabat y a todos los días no laborables: Yom Tov de Pesaj, Shavuot, Rosh Hashana, Kipur y Sucot.",
+        "title": "🌐 My services",
+        "description": "My services include sourcing suppliers in China, Brazil, and Argentina; managing production; international logistics; handling imports/exports; 3PL warehouse management; inventory management; and managing stock and shipping on e-commerce platforms.",
         "img": "/assets/images/product1.jpg"
       },
       {
-        "title": "Aulas exclusivas",
-        "description": "Los estudiantes que se inscriban en la UP a través de Menora tendrán aulas exclusivas para su uso. \n \n Esto facilitará la formación de grupos y fortalecerá su sentido de pertenencia, creando un ambiente propicio para el respeto de las normas relacionadas con la interacción entre estudiantes, incluyendo aspectos como el recato entre chicos y chicas, entre otros detalles.",
+        "title": "📈 My forecasts",
+        "description": "I make accurate purchase and sales forecasts, reducing your costs and avoiding both stock shortages and overstock. I make sure your productions comply with Amazon's policies according to each market. \n\n In this way, you will reduce your costs, increase your sales and profits, and achieve growth in your company.",
         "img": "/assets/images/product2.jpg"
       },
       {
-        "title": "Estudio del judaísmo y ética",
-        "description": "Los alumnos de la UP que pertenezcan al grupo Menora tendrán la posibilidad de estudiar cursos relativos al judaísmo y ética judía como materias electivas, que forman parte integral del plan de estudios de la carrera. \n \n Dichos cursos apuntan a formar profesionales con altos estándares de ética profesional, basados en las sabias enseñanzas de nuestro legado milenario.",
-        "img": "/assets/images/toraStudy.png"
-      },
-      {
-        "title": "Programas de Grado en estudios de Torá",
-        "description": "Estudiá en la Midrashá de Menora: \n • Accedé a un alto nivel académico en estudios judaicos. \n • Obtené un certificado de altos estudios de Torá, firmado por la Midrashá de Menora. \n • Acumulá créditos académicos para acceder a: descuentos en el arancel UP, viaje de estudios y otros beneficios.",
+        "title": "🤝 Supporting companies",
+        "description": "I am dedicated to supporting companies throughout their growth journey because their success is my success, and it fuels my drive to keep evolving. Whether it’ s large corporations or small businesses, there are no limits to your growth, the entire world is your market.",
         "img": "/assets/images/product3.jpg"
       }
     ]
   },
   "features": {
-    "title": "Carreras",
-    "subtitle": "Todas las carreras que te podes imaginar!",
-    "description": "En el programa de Menora UP, se ofrece una amplia variedad de carreras para que puedas elegir aquella que mejor se adapte a tus intereses y metas profesionales.",
+    "title": "Services that I offer",
+    "subtitle": "From manufacturing to logistics and inventory management",
+    "description": "I offer a wide range of services to help you manage your business. From manufacturing to logistics and inventory management, I can help you with all your needs.",
     "items": [
       {
-        "name": "Facultad de Ingenieria",
-        "description": "",
-        "link": "https://www.palermo.edu/ingenieria/",
-        "icon": "/assets/images/ingenieria.svg"
+        "name": "📦 Manufacturing",
+        "isButton": false,
+        "description": "\n- Making purchase projections based on qualitative and quantitative market analysis to manufacture adequate quantities, avoiding both stock shortages and overstock.\n- Managing end-to-end supply chain operations, including sourcing, manufacturing, transportation, and inventory management.\n- Dealing with suppliers to ensure clear and concise information for production.\n- End-to-end production monitoring.\n- Requesting documentation according to the destination market.\n- Providing suppliers with all the necessary information for production.\n- Ensuring that suppliers carry out productions correctly and meet quality standards, ensuring that productions comply with Amazon’s policies.\n- Controlling packaging and palletizing according to international logistics standards.",
+        "link": "mailto:jonybendjouya@gmail.com?subject=Hello, I'd like more info on your manufacturing services",
+        "icon": "/assets/images/manufacturing.svg"
       },
       {
-        "name": "Facultad de Ciencias Sociales",
-        "description": "",
-        "link": "https://www.palermo.edu/cienciassociales/",
-        "icon": "/assets/images/ciencias-sociales.svg"
+        "name": "🚢 Logistics",
+        "isButton": false,
+        "description": "\n - Dealing with forwarders and obtaining the best international freight quotes according to market prices.\n - Coordinating shipments between suppliers and forwarders, ensuring that documentation is complete and correct, and managing supplier certifications as needed for destination markets.\n - Consolidating goods from different suppliers.\n - Coordinating FCL/LCL shipments according to the most efficient option based on production.\n - Obtaining the best HS CODE for merchandise for customs in the destination market.\n - Tracking shipments throughout the entire journey.\n - Coordinating with customs brokers to ensure a smooth import process.\n - Coordinating with inland freight managers for the delivery of merchandise at the destination",
+        "link": "mailto:jonybendjouya@gmail.com?subject=Hello, I'd like more info on your logistics services",
+        "icon": "/assets/images/logistics.svg"
       },
       {
-        "name": "Facultad de Negocios",
-        "description": "",
-        "link": "https://www.palermo.edu/negocios/",
-        "icon": "/assets/images/negocios.svg"
+        "name": "🛠️ Inventory Management",
+        "isButton": false,
+        "description": "\n- Working with warehouse managers to ensure they receive all the necessary documentation and that merchandise is received without issues.\n- Calculating production costs when they arrive at the destination.\n- Coordinating with 3PL warehouses to prepare and ship merchandise correctly.\n- Warehousing and 3PL management.\n- Preparing necessary labeling and documentation.\n- Coordinating and preparing shipments for wholesale customers.",
+        "link": "mailto:jonybendjouya@gmail.com?subject=Hello, I'd like more info on your inventory management services",
+        "icon": "/assets/images/inventory-management.svg"
       },
       {
-        "name": "Facultad de Diseño y comunicacion",
-        "description": "",
-        "link": "https://www.palermo.edu/dyc/",
-        "icon": "/assets/images/diseñoycomunicacion.svg"
+        "name": "🚀 Amazon FBA",
+        "isButton": false,
+        "description": "\n- Making weekly projections for each market to send the correct quantities to Amazon warehouses.\n- Monitoring inventory in Amazon and replenishing as needed.\n- Making purchase and sales projections.\n- Coordinating with couriers for pick-up.\n- Tracking delivery of shipments to Amazon.\n- Handling shipments to Amazon AWD.\n- Resolving inventory issues that may arise on Amazon.",
+        "link": "mailto:jonybendjouya@gmail.com?subject=Hello, I'd like more info on your Amazon FBA services",
+        "icon": "/assets/images/amazon-fba.svg"
       }
     ]
   },
@@ -134,13 +133,14 @@
   "about": {
     "sections": [
       {
-        "name": "Contactanos",
-        "href": "https://wa.me/+5491130963017?text=Hola%21+me+gustar%C3%ADa+saber+mas+sobre+el+programa+Menora-UP"
+        "name": "Contact me",
+        "href": "https://wa.me/5491154771235?text=Hello%2C%20I%27d%20like%20more%20info%20on%20your%20services"
       }
     ],
     "socialMedia": {
-      "instagram": "https://www.instagram.com/menora_arg/",
-      "linkedin": "https://www.linkedin.com/company/menora-argentina"
+      "instagram": "",
+      "linkedin": "https://www.linkedin.com/in/jonybendjouya/",
+      "calendly": " https://calendly.com/jonybendjouya/30min"
     }
   }
 }
