@@ -19,8 +19,8 @@
   },
   "mainHero": {
     "title": "JMB SOLUTIONS BH",
-    "subtitle": "Supply chain services",
-    "description": "As a freelancer, I started my own business offering supply chain and consulting services to businesses selling on Amazon FBA and other ecommerce platforms in the United States, the EU, the United Kingdom, Canada, Mexico, and Australia. I have over 3 years of experience working with top Amazon sellers.",
+    "subtitle": "Supply Chain Services",
+    "description": "I offer supply chain and consulting services to businesses selling on Amazon FBA and other ecommerce platforms in the United States, the EU, the United Kingdom, Canada, Mexico, and Australia. I have over 3 years of experience working with top Amazon sellers.",
     "img": "/assets/images/happyTeam.jpeg",
     "primaryAction": {
       "text": "Send me a message",
@@ -40,12 +40,12 @@
     "title": "Information",
     "items": [
       {
-        "title": "🌐 My services",
+        "title": "🌐 Services",
         "description": "My services include sourcing suppliers in China, Brazil, and Argentina; managing production; international logistics; handling imports/exports; 3PL warehouse management; inventory management; and managing stock and shipping on e-commerce platforms.",
         "img": "/assets/images/product1.jpg"
       },
       {
-        "title": "📈 My forecasts",
+        "title": "📈 Forecasts",
         "description": "I make accurate purchase and sales forecasts, reducing your costs and avoiding both stock shortages and overstock. I make sure your productions comply with Amazon's policies according to each market. \n\n In this way, you will reduce your costs, increase your sales and profits, and achieve growth in your company.",
         "img": "/assets/images/product2.jpg"
       },
@@ -57,8 +57,8 @@
     ]
   },
   "features": {
-    "title": "Services that I offer",
-    "subtitle": "From manufacturing to logistics and inventory management",
+    "title": "",
+    "subtitle": "Services that I offer",
     "description": "I offer a wide range of services to help you manage your business. From manufacturing to logistics and inventory management, I can help you with all your needs.",
     "items": [
       {
