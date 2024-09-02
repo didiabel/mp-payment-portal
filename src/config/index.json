@@ -1,131 +1,142 @@
 {
   "company": {
-    "name": "Portfolio - Jony Bendjouya",
+    "name": "Landing page template, Joseph Abel",
     "logo": "/assets/images/logo.png"
   },
   "navigation": [
     {
-      "name": "Info",
+      "name": "Informacion",
       "href": "product"
     },
     {
-      "name": "Services",
+      "name": "Servicios",
       "href": "features"
+    },
+    {
+      "name": "Tus productos",
+      "href": "pricing"
     }
   ],
   "callToAction": {
     "text": "Contact me",
-    "href": "https://wa.me/5491154771235?text=Hello%2C%20I%27d%20like%20more%20info%20on%20your%20services"
+    "href": "https://wa.me/5491131171480?text=Quiero%20una%20pagina%20web"
   },
   "mainHero": {
-    "title": "JMB SOLUTIONS BH",
-    "subtitle": "Supply Chain Services",
-    "description": "I offer supply chain and consulting services to businesses selling on Amazon FBA and other ecommerce platforms in the United States, the EU, the United Kingdom, Canada, Mexico, and Australia. I have over 3 years of experience working with top Amazon sellers.",
+    "title": "Tu titulo",
+    "subtitle": "Tu subtitulo",
+    "description": "Descripcion de tus servicios \n Eiusmod magna pariatur eu est sint consectetur elit. Aute nulla pariatur ea cupidatat minim quis cillum pariatur sint quis. Qui reprehenderit eiusmod et officia qui anim cillum. Fugiat cillum ex reprehenderit incididunt elit laboris dolore enim eu aliquip.",
+
     "img": "/assets/images/happyTeam.jpeg",
+
     "primaryAction": {
-      "text": "Send me a message",
-      "href": "https://wa.me/5491154771235?text=Hello%2C%20I%27d%20like%20more%20info%20on%20your%20services"
+      "text": "Enviame un mensaje",
+      "href": "https://wa.me/5491131171480?text=Quiero%20una%20pagina%20web"
     },
     "secondaryAction": {
-      "text": "Send me an email",
-      "href": "mailto:jonybendjouya@gmail.com?subject=Hello, I'd like more info on your services"
+      "text": "Enviame un mail",
+      "href": "mailto:didiabel123@gmail.com?subject=Pagina web"
     }
   },
   "whatsapp": {
-    "title": "Send me a message",
-    "link": "https://wa.me/5491154771235?text=Hello%2C%20I%27d%20like%20more%20info%20on%20your%20services",
+    "title": "Enviame un mensaje",
+    "link": "https://wa.me/5491131171480?text=Quiero%20una%20pagina%20web",
     "img": "/assets/images/whatsapp.png"
   },
   "product": {
-    "title": "Information",
+    "title": "Informacion",
     "items": [
       {
-        "title": "🌐 Services",
-        "description": "My services include sourcing suppliers in China, Brazil, and Argentina; managing production; international logistics; handling imports/exports; 3PL warehouse management; inventory management; and managing stock and shipping on e-commerce platforms.",
+        "title": "1️⃣ ITEM",
+        "description": "Quis est ut ut amet sint laborum. Labore nulla proident Lorem minim elit pariatur ex consequat commodo enim duis in excepteur. Nulla sunt culpa ex commodo reprehenderit velit enim amet ullamco mollit minim adipisicing.",
         "img": "/assets/images/product1.jpg"
       },
       {
-        "title": "📈 Forecasts",
-        "description": "I make accurate purchase and sales forecasts, reducing your costs and avoiding both stock shortages and overstock. I make sure your productions comply with Amazon's policies according to each market. \n\n In this way, you will reduce your costs, increase your sales and profits, and achieve growth in your company.",
+        "title": "2️⃣ ITEM",
+        "description": "Tempor irure consequat anim enim nisi ea reprehenderit. Consequat veniam veniam sint sint amet irure. In dolore anim exercitation Lorem ipsum pariatur sit elit in irure magna nisi sint minim.",
         "img": "/assets/images/product2.jpg"
       },
       {
-        "title": "🤝 Supporting companies",
-        "description": "I am dedicated to supporting companies throughout their growth journey because their success is my success, and it fuels my drive to keep evolving. Whether it’ s large corporations or small businesses, there are no limits to your growth, the entire world is your market.",
+        "title": "3️⃣ ITEM",
+        "description": "Consequat sit nisi sunt deserunt nisi proident cupidatat aliqua ea consequat cillum occaecat veniam adipisicing. Officia sit labore esse occaecat commodo. Velit dolore voluptate pariatur eu tempor aliqua exercitation amet cupidatat cupidatat labore.",
         "img": "/assets/images/product3.jpg"
       }
     ]
   },
   "features": {
-    "title": "",
-    "subtitle": "Services that I offer",
-    "description": "I offer a wide range of services to help you manage your business. From manufacturing to logistics and inventory management, I can help you with all your needs.",
+    "title": "Informacion sobre vos",
+    "subtitle": "Paginas web por doquier",
+    "description": "Aca iria una descripcion que describe tu empresa o servicios",
     "items": [
       {
-        "name": "📦 Manufacturing",
+        "name": "🌎 Paginas web",
         "isButton": false,
-        "description": "\n- Making purchase projections based on qualitative and quantitative market analysis to manufacture adequate quantities, avoiding both stock shortages and overstock.\n- Managing end-to-end supply chain operations, including sourcing, manufacturing, transportation, and inventory management.\n- Dealing with suppliers to ensure clear and concise information for production.\n- End-to-end production monitoring.\n- Requesting documentation according to the destination market.\n- Providing suppliers with all the necessary information for production.\n- Ensuring that suppliers carry out productions correctly and meet quality standards, ensuring that productions comply with Amazon’s policies.\n- Controlling packaging and palletizing according to international logistics standards.",
-        "link": "mailto:jonybendjouya@gmail.com?subject=Hello, I'd like more info on your manufacturing services",
+        "description": "\n Te creamos tu pagina web con textos e imagenes personalizadas",
+        "link": "https://wa.me/5491131171480?text=Quiero%20una%20pagina%20web",
         "icon": "/assets/images/manufacturing.svg"
       },
       {
-        "name": "🚢 Logistics",
+        "name": "🛜 Hosteo en dominio",
         "isButton": false,
-        "description": "\n - Dealing with forwarders and obtaining the best international freight quotes according to market prices.\n - Coordinating shipments between suppliers and forwarders, ensuring that documentation is complete and correct, and managing supplier certifications as needed for destination markets.\n - Consolidating goods from different suppliers.\n - Coordinating FCL/LCL shipments according to the most efficient option based on production.\n - Obtaining the best HS CODE for merchandise for customs in the destination market.\n - Tracking shipments throughout the entire journey.\n - Coordinating with customs brokers to ensure a smooth import process.\n - Coordinating with inland freight managers for the delivery of merchandise at the destination",
-        "link": "mailto:jonybendjouya@gmail.com?subject=Hello, I'd like more info on your logistics services",
+        "description": "\n Compras tu dominio y hosteamos tu pagina web ahi",
+        "link": "https://wa.me/5491131171480?text=Quiero%20una%20pagina%20web",
         "icon": "/assets/images/logistics.svg"
       },
       {
-        "name": "🛠️ Inventory Management",
+        "name": "🛠️ Mantenimiento",
         "isButton": false,
-        "description": "\n- Working with warehouse managers to ensure they receive all the necessary documentation and that merchandise is received without issues.\n- Calculating production costs when they arrive at the destination.\n- Coordinating with 3PL warehouses to prepare and ship merchandise correctly.\n- Warehousing and 3PL management.\n- Preparing necessary labeling and documentation.\n- Coordinating and preparing shipments for wholesale customers.",
-        "link": "mailto:jonybendjouya@gmail.com?subject=Hello, I'd like more info on your inventory management services",
+        "description": "\nOfrecemos servicios de mantenimiento",
+        "link": "https://wa.me/5491131171480?text=Quiero%20una%20pagina%20web",
         "icon": "/assets/images/inventory-management.svg"
       },
       {
-        "name": "🚀 Amazon FBA",
+        "name": "📄 Nuestros servicios",
         "isButton": false,
-        "description": "\n- Making weekly projections for each market to send the correct quantities to Amazon warehouses.\n- Monitoring inventory in Amazon and replenishing as needed.\n- Making purchase and sales projections.\n- Coordinating with couriers for pick-up.\n- Tracking delivery of shipments to Amazon.\n- Handling shipments to Amazon AWD.\n- Resolving inventory issues that may arise on Amazon.",
-        "link": "mailto:jonybendjouya@gmail.com?subject=Hello, I'd like more info on your Amazon FBA services",
+        "description": "\nTe creamos tu pagina web",
+        "link": "https://wa.me/5491131171480?text=Quiero%20una%20pagina%20web",
         "icon": "/assets/images/amazon-fba.svg"
       }
     ]
   },
   "pricing": {
-    "title": "Pricing",
+    "title": "Tus Productos",
     "items": [
       {
-        "name": "Free",
-        "price": "$0",
-        "priceDetails": "for one user",
+        "name": "Opcion 1",
+        "price": "$15,000",
+        "priceDetails": "",
+        "buttonText": "Pedir informacion",
+        "buttonLink": "https://wa.me/5491131171480?text=Quiero%20una%20pagina%20web",
         "features": [
-          "1 user",
-          "Basic Support",
-          "1 GB of storage",
-          "Email support"
+          "elemento 1.1",
+          "elemento 1.2",
+          "elemento 1.3",
+          "elemento 1.4"
         ]
       },
       {
-        "name": "Pro",
-        "price": "$15",
-        "priceDetails": "per user",
-
+        "name": "Opcion 2",
+        "price": "$50,000",
+        "priceDetails": "",
+        "buttonText": "Pedir informacion",
+        "buttonLink": "https://wa.me/5491131171480?text=Quiero%20una%20pagina%20web",
         "features": [
-          "5 users",
-          "Priority Support",
-          "10 GB of storage",
-          "Phone and Email support"
+          "elemento 2.1",
+          "elemento 2.2",
+          "elemento 2.3",
+          "elemento 2.4"
         ]
       },
       {
-        "name": "Enterprise",
-        "price": "$29",
-        "priceDetails": "per user",
+        "name": "Opcion 3",
+        "price": "$25,000",
+        "priceDetails": "",
+        "buttonText": "Pedir informacion",
+        "buttonLink": "https://wa.me/5491131171480?text=Quiero%20una%20pagina%20web",
         "features": [
-          "50 users",
-          "24/7 Support",
-          "100 GB of storage",
-          "Phone and Email support"
+          "elemento 3.1",
+          "elemento 3.2",
+          "elemento 3.3",
+          "elemento 3.4"
         ]
       }
     ]
@@ -134,13 +145,14 @@
     "sections": [
       {
         "name": "Contact me",
-        "href": "https://wa.me/5491154771235?text=Hello%2C%20I%27d%20like%20more%20info%20on%20your%20services"
+        "href": "https://wa.me/5491131171480?text=Quiero%20una%20pagina%20web"
       }
     ],
     "socialMedia": {
-      "instagram": "",
-      "linkedin": "https://www.linkedin.com/in/jonybendjouya/",
-      "calendly": " https://calendly.com/jonybendjouya/30min"
+      "instagram": "https://www.instagram.com/didi.abel.1/",
+      "whatsapp": "https://wa.me/5491131171480?text=Quiero%20una%20pagina%20web",
+      "linkedin": "https://www.linkedin.com/in/joseph-abel-/",
+      "calendly": ""
     }
   }
 }

@@ -52,6 +52,12 @@ const Pricing = () => {
                 {firstPlan?.price}
                 <span className={`text-base`}> {firstPlan?.priceDetails}</span>
               </div>
+              <a
+                href={firstPlan?.buttonLink}
+                className={`w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-background bg-primary hover:bg-border hover:text-primary md:py-4 md:text-lg md:px-10`}
+              >
+                {firstPlan?.buttonText}
+              </a>
             </div>
           </div>
           <div
@@ -84,6 +90,12 @@ const Pricing = () => {
                 {secondPlan?.price}
                 <span className={`text-base`}> {secondPlan?.priceDetails}</span>
               </div>
+              <a
+                href={secondPlan?.buttonLink}
+                className={`w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-background bg-primary hover:bg-border hover:text-primary md:py-4 md:text-lg md:px-10`}
+              >
+                {secondPlan?.buttonText}
+              </a>
             </div>
           </div>
           <div
@@ -115,6 +127,12 @@ const Pricing = () => {
                 {thirdPlan?.price}
                 <span className={`text-base`}> {thirdPlan?.priceDetails}</span>
               </div>
+              <a
+                href={thirdPlan?.buttonLink}
+                className={`w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-background bg-primary hover:bg-border hover:text-primary md:py-4 md:text-lg md:px-10`}
+              >
+                {thirdPlan?.buttonText}
+              </a>
             </div>
           </div>
         </div>
