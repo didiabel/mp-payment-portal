@@ -80,13 +80,13 @@ export default function ArgPage() {
               defaultValue="1000"
             />
 
-            <label htmlFor="motivo">Motivo de la donación</label>
+            <label htmlFor="motivo">Concepto de donación</label>
             <input
               type="text"
               id="motivo"
               name="motivo"
               required
-              placeholder="Ej: Comedor, Ayuda social..."
+              placeholder="Berajá Behaslajá, Arijut Iamim Beshanim, Refuá Shelemá, Leiluy Nishmat, Otro"
             />
 
             <button type="submit" id="btn-pay" disabled={loading}>
